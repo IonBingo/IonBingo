@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IonBingo
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++, Godot
 - 💞️ I’m looking to collaborate on making cool games
 
 <!---
